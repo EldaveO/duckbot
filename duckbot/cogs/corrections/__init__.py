@@ -7,3 +7,4 @@ def setup(bot):
     bot.add_cog(Bitcoin(bot))
     bot.add_cog(Kubernetes(bot))
     bot.add_cog(Typos(bot))
+    bot.add_cog(Cloud(bot))
